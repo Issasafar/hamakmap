@@ -1,0 +1,18 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "forceUpdate": true,
+  "downloadUrl": "https://github.com/YOUR-USER/YOUR-REPO/releases/latest",
+  "whatsNew": {
+    "ar": [
+      "تحديث بيانات الخريطة وإضافة أماكن جديدة",
+      "تحسين دقة موقعي على الخريطة",
+      "إصلاح أخطاء وتحسين الأداء"
+    ],
+    "en": [
+      "Updated map data and new places",
+      "More accurate My location on the map",
+      "Bug fixes and better performance"
+    ]
+  }
+}
