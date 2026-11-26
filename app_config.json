@@ -1,7 +1,7 @@
 {
   "telegramBotUrl": "https://t.me/engineering3bot",
   "telegramChannelUrl": "https://t.me/ProgrammingAndComputerScience",
-  "showSupport": false,
+  "showSupport": true,
   "shamCashId": "0dc9b8e16036ae2f89a5efce0df53558",
   "shamCashDownloadUrl": "https://shamcash.org/download"
 }
